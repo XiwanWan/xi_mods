@@ -14,13 +14,10 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.world.gen.Heightmap;
 import net.minecraft.world.biome.MobSpawnInfo;
 import net.minecraft.world.World;
-import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.DamageSource;
 import net.minecraft.network.IPacket;
 import net.minecraft.item.SpawnEggItem;
-import net.minecraft.item.Items;
-import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.entity.ai.goal.SwimGoal;
 import net.minecraft.entity.ai.goal.RandomWalkingGoal;
@@ -37,21 +34,20 @@ import net.minecraft.entity.EntityClassification;
 import net.minecraft.entity.CreatureEntity;
 import net.minecraft.entity.CreatureAttribute;
 import net.minecraft.block.material.Material;
-import net.minecraft.block.BlockState;
 
 import net.mcreator.ximod.itemgroup.XiItemGroup;
-import net.mcreator.ximod.entity.renderer.DuckRenderer;
+import net.mcreator.ximod.entity.renderer.FrogRenderer;
 import net.mcreator.ximod.XiModModElements;
 
 @XiModModElements.ModElement.Tag
-public class DuckEntity extends XiModModElements.ModElement {
+public class FrogEntity extends XiModModElements.ModElement {
 	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.CREATURE)
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
-			.size(0.6f, 1.8f)).build("duck").setRegistryName("duck");
+			.size(0.6f, 1.8f)).build("frog").setRegistryName("frog");
 
-	public DuckEntity(XiModModElements instance) {
-		super(instance, 104);
-		FMLJavaModLoadingContext.get().getModEventBus().register(new DuckRenderer.ModelRegisterHandler());
+	public FrogEntity(XiModModElements instance) {
+		super(instance, 280);
+		FMLJavaModLoadingContext.get().getModEventBus().register(new FrogRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);
 	}
@@ -60,7 +56,7 @@ public class DuckEntity extends XiModModElements.ModElement {
 	public void initElements() {
 		elements.entities.add(() -> entity);
 		elements.items.add(
-				() -> new SpawnEggItem(entity, -10027162, -9614774, new Item.Properties().group(XiItemGroup.tab)).setRegistryName("duck_spawn_egg"));
+				() -> new SpawnEggItem(entity, -3115964, -14468, new Item.Properties().group(XiItemGroup.tab)).setRegistryName("frog_spawn_egg"));
 	}
 
 	@SubscribeEvent
@@ -79,10 +75,10 @@ public class DuckEntity extends XiModModElements.ModElement {
 		@SubscribeEvent
 		public void onEntityAttributeCreation(EntityAttributeCreationEvent event) {
 			AttributeModifierMap.MutableAttribute ammma = MobEntity.func_233666_p_();
-			ammma = ammma.createMutableAttribute(Attributes.MOVEMENT_SPEED, 0.3);
-			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 4);
+			ammma = ammma.createMutableAttribute(Attributes.MOVEMENT_SPEED, 0.25);
+			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 10);
 			ammma = ammma.createMutableAttribute(Attributes.ARMOR, 0);
-			ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 0);
+			ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 3);
 			ammma = ammma.createMutableAttribute(Attributes.FOLLOW_RANGE, 16);
 			event.put(entity, ammma.create());
 		}
@@ -130,30 +126,14 @@ public class DuckEntity extends XiModModElements.ModElement {
 			return false;
 		}
 
-		protected void dropSpecialItems(DamageSource source, int looting, boolean recentlyHitIn) {
-			super.dropSpecialItems(source, looting, recentlyHitIn);
-			this.entityDropItem(new ItemStack(Items.FEATHER));
-		}
-
-		@Override
-		public net.minecraft.util.SoundEvent getAmbientSound() {
-			return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("xi_mod:duck_ambiant"));
-		}
-
-		@Override
-		public void playStepSound(BlockPos pos, BlockState blockIn) {
-			this.playSound((net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("entity.chicken.step")), 0.15f,
-					1);
-		}
-
 		@Override
 		public net.minecraft.util.SoundEvent getHurtSound(DamageSource ds) {
-			return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("xi_mod:duck_hurt"));
+			return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("entity.generic.hurt"));
 		}
 
 		@Override
 		public net.minecraft.util.SoundEvent getDeathSound() {
-			return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("xi_mod:duck_death"));
+			return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("entity.generic.death"));
 		}
 
 		@Override

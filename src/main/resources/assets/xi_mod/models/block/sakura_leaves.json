@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xi_mod:blocks/sakura_flowers",
+    "up": "xi_mod:blocks/sakura_flowers",
+    "north": "xi_mod:blocks/sakura_flowers",
+    "east": "xi_mod:blocks/sakura_flowers",
+    "south": "xi_mod:blocks/sakura_flowers",
+    "west": "xi_mod:blocks/sakura_flowers",
+    "particle": "xi_mod:blocks/sakura_flowers"
+  }
+}

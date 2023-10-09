@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "xi_mod:blocks/sakura_planks",
+    "top": "xi_mod:blocks/sakura_planks",
+    "side": "xi_mod:blocks/sakura_planks"
+  }
+}

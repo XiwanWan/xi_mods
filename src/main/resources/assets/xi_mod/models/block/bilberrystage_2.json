@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xi_mod:blocks/bilberry_stage2",
+    "particle": "xi_mod:blocks/bilberry_stage2"
+  }
+}

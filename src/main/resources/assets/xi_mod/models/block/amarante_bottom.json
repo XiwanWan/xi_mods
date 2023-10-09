@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xi_mod:blocks/amarante_bottom",
+    "particle": "xi_mod:blocks/amarante_bottom"
+  }
+}

@@ -1,0 +1,3255 @@
+{
+  "mod_elements": [
+    {
+      "name": "Xi",
+      "type": "tab",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xi"
+    },
+    {
+      "name": "Bordeauxdye",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bordeauxdye"
+    },
+    {
+      "name": "Beigedye",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beigedye"
+    },
+    {
+      "name": "Pourpredye",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pourpredye"
+    },
+    {
+      "name": "Jadedye",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadedye"
+    },
+    {
+      "name": "Purpurdye",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpurdye"
+    },
+    {
+      "name": "Limebluedye",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limebluedye"
+    },
+    {
+      "name": "Lily",
+      "type": "plant",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lily"
+    },
+    {
+      "name": "Magentalily",
+      "type": "plant",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magentalily"
+    },
+    {
+      "name": "Orangelily",
+      "type": "plant",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangelily"
+    },
+    {
+      "name": "Pourprelily",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pourprelily"
+    },
+    {
+      "name": "Pinklily",
+      "type": "plant",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinklily"
+    },
+    {
+      "name": "Yellowlily",
+      "type": "plant",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowlily"
+    },
+    {
+      "name": "Redlily",
+      "type": "plant",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redlily"
+    },
+    {
+      "name": "Hetreplanks",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetreplanks"
+    },
+    {
+      "name": "Hetredoor",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetredoor"
+    },
+    {
+      "name": "Hetrestairs",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetrestairs"
+    },
+    {
+      "name": "Hetreslabs",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetreslabs"
+    },
+    {
+      "name": "Hetrebutton",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetrebutton"
+    },
+    {
+      "name": "Hetrepressureplate",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetrepressureplate"
+    },
+    {
+      "name": "Hetrefence",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetrefence"
+    },
+    {
+      "name": "Hetrefencegate",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetrefencegate"
+    },
+    {
+      "name": "Renforcedirondoor",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "renforcedirondoor"
+    },
+    {
+      "name": "Pourpredyebylilycraft",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pourpredyebylilycraft"
+    },
+    {
+      "name": "Pourpredyebydyecraft",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pourpredyebydyecraft"
+    },
+    {
+      "name": "Pourprewool",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pourprewool"
+    },
+    {
+      "name": "Purpurwool",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpurwool"
+    },
+    {
+      "name": "Limebluewool",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limebluewool"
+    },
+    {
+      "name": "Jadewool",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadewool"
+    },
+    {
+      "name": "Bordeauxwool",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bordeauxwool"
+    },
+    {
+      "name": "Beigewool",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beigewool"
+    },
+    {
+      "name": "Pourprewoolstairs",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pourprewoolstairs"
+    },
+    {
+      "name": "Bordeauxwoolstairs",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bordeauxwoolstairs"
+    },
+    {
+      "name": "Purpurwoolstairs",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpurwoolstairs"
+    },
+    {
+      "name": "Limebluewoolstairs",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limebluewoolstairs"
+    },
+    {
+      "name": "Jadewoolstairs",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadewoolstairs"
+    },
+    {
+      "name": "Beigewoolstairs",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beigewoolstairs"
+    },
+    {
+      "name": "Pourprewoolslabs",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pourprewoolslabs"
+    },
+    {
+      "name": "Purpurwoolslabs",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpurwoolslabs"
+    },
+    {
+      "name": "Limebluewoolslabs",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limebluewoolslabs"
+    },
+    {
+      "name": "Jadewoolslabs",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadewoolslabs"
+    },
+    {
+      "name": "Bordeauxwoolslabs",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bordeauxwoolslabs"
+    },
+    {
+      "name": "Beigewoolslabs",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beigewoolslabs"
+    },
+    {
+      "name": "Bilberriesgrow",
+      "type": "procedure",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberriesgrow",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bilberryitem",
+      "type": "item",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberryitem"
+    },
+    {
+      "name": "Bilberrystage0",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrystage_0"
+    },
+    {
+      "name": "Bilberrystage0blockadded",
+      "type": "procedure",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrystage_0blockadded",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Farmland",
+      "type": "tag",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "farmland"
+    },
+    {
+      "name": "Grassblock",
+      "type": "tag",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grassblock"
+    },
+    {
+      "name": "Bilberrystage1",
+      "type": "block",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrystage_1"
+    },
+    {
+      "name": "Bilberrystage2",
+      "type": "block",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrystage_2"
+    },
+    {
+      "name": "Bilberrystage3",
+      "type": "block",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrystage_3"
+    },
+    {
+      "name": "Bilberrygrowthupdatetick",
+      "type": "procedure",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrygrowthupdatetick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fertilizer",
+      "type": "tag",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fertilizer"
+    },
+    {
+      "name": "Bilberrygrowthwithbonemeal",
+      "type": "procedure",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrygrowthwithbonemeal",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bilberrygrowthwithbonemeal2",
+      "type": "procedure",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrygrowthwithbonemeal_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bilberrygrowthwithbonemeal3",
+      "type": "procedure",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrygrowthwithbonemeal_3",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bilberrystage3OnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberrystage_3_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bilberries03",
+      "type": "tag",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberries_03"
+    },
+    {
+      "name": "Bilberries",
+      "type": "plant",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberries"
+    },
+    {
+      "name": "Bilberriesonrightclicked",
+      "type": "procedure",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bilberriesonrightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Goatcheese",
+      "type": "item",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goatcheese"
+    },
+    {
+      "name": "Mud",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mud"
+    },
+    {
+      "name": "Aridgrass",
+      "type": "plant",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aridgrass"
+    },
+    {
+      "name": "Tallaridgrass",
+      "type": "plant",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tallaridgrass"
+    },
+    {
+      "name": "Cenchrus",
+      "type": "plant",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cenchrus"
+    },
+    {
+      "name": "Rubbervineleaves",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubbervineleaves"
+    },
+    {
+      "name": "Milkglassbottle",
+      "type": "item",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "milkglassbottle"
+    },
+    {
+      "name": "Milkglassbottlecraft",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "milkglassbottlecraft"
+    },
+    {
+      "name": "Ostritch",
+      "type": "livingentity",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritch"
+    },
+    {
+      "name": "Ostritchbaby",
+      "type": "livingentity",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchbaby"
+    },
+    {
+      "name": "Ostritchinitialentityspawn",
+      "type": "procedure",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchinitialentityspawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ostritchrightclickdoneentity",
+      "type": "procedure",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchrightclickdoneentity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ostritchonentitytickupdate",
+      "type": "procedure",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchonentitytickupdate",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ostritchbreedattackssameentity",
+      "type": "procedure",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchbreedattackssameentity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ostritchbreedonentitytickupdate",
+      "type": "procedure",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchbreedonentitytickupdate",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ostritchbabyinitialentityspawn",
+      "type": "procedure",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchbabyinitialentityspawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ostritchbabyonentitytickupdate",
+      "type": "procedure",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchbabyonentitytickupdate",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ostritchbreed",
+      "type": "livingentity",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchbreed"
+    },
+    {
+      "name": "Ostritchbreedinitialentityspawn",
+      "type": "procedure",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchbreedinitialentityspawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bench",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bench"
+    },
+    {
+      "name": "Hetrelog",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetrelog"
+    },
+    {
+      "name": "Hetreleaves",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetreleaves"
+    },
+    {
+      "name": "Hetretree",
+      "type": "structure",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetretree"
+    },
+    {
+      "name": "Hetreforest",
+      "type": "biome",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetreforest"
+    },
+    {
+      "name": "Hetrelogstag",
+      "type": "tag",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetrelogstag"
+    },
+    {
+      "name": "Paperwalldoor",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paperwalldoor"
+    },
+    {
+      "name": "Paperwalldooropen",
+      "type": "block",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paperwalldooropen"
+    },
+    {
+      "name": "Paperwalldooronrightclick",
+      "type": "procedure",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paperwalldooronrightclick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Paperwalldooropenonrightclick",
+      "type": "procedure",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paperwalldooropenonrightclick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Paperwall",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paperwall"
+    },
+    {
+      "name": "Paperwallcraft",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paperwallcraft",
+      "path": "~/craft"
+    },
+    {
+      "name": "Paperwalldoorcraft",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paperwalldoorcraft",
+      "path": "~/craft"
+    },
+    {
+      "name": "Hetreplankscraft",
+      "type": "recipe",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetreplankscraft",
+      "path": "~/craft"
+    },
+    {
+      "name": "Yelloworchid",
+      "type": "plant",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yelloworchid",
+      "path": "~/orchid"
+    },
+    {
+      "name": "Purpleorchid",
+      "type": "plant",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpleorchid",
+      "path": "~/orchid"
+    },
+    {
+      "name": "Blueexoticorchid",
+      "type": "plant",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blueexoticorchid",
+      "path": "~/orchid"
+    },
+    {
+      "name": "Greenorchid",
+      "type": "plant",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "greenorchid",
+      "path": "~/orchid"
+    },
+    {
+      "name": "Magentaorchid",
+      "type": "plant",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magentaorchid",
+      "path": "~/orchid"
+    },
+    {
+      "name": "Pinkorchid",
+      "type": "plant",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinkorchid",
+      "path": "~/orchid"
+    },
+    {
+      "name": "Aridgrassseedsloot",
+      "type": "loottable",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aridgrassseedsloot",
+      "path": "~/loot"
+    },
+    {
+      "name": "Shearstag",
+      "type": "tag",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shearstag"
+    },
+    {
+      "name": "AridgrassQuandLaPlanteEstDetruiteParUnJoueur",
+      "type": "procedure",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aridgrass_quand_la_plante_est_detruite_par_un_joueur",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hetretrapdoor",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetretrapdoor"
+    },
+    {
+      "name": "Baobablog",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobablog"
+    },
+    {
+      "name": "Renforcedironblock",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "renforcedironblock"
+    },
+    {
+      "name": "Renforcedironingot",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "renforcedironingot"
+    },
+    {
+      "name": "Baobabplanks",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabplanks"
+    },
+    {
+      "name": "Baobabstairs",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabstairs"
+    },
+    {
+      "name": "Baobabslabs",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabslabs"
+    },
+    {
+      "name": "Baobabfence",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabfence"
+    },
+    {
+      "name": "Baobabfencegate",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabfencegate"
+    },
+    {
+      "name": "Baobabbutton",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabbutton"
+    },
+    {
+      "name": "Baobabpressureplate",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabpressureplate"
+    },
+    {
+      "name": "Renforcedironbars",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "renforcedironbars"
+    },
+    {
+      "name": "Baobableaves",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobableaves"
+    },
+    {
+      "name": "Spongeitem",
+      "type": "item",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spongeitem"
+    },
+    {
+      "name": "Spongehumitem",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spongehumitem"
+    },
+    {
+      "name": "Cellulose",
+      "type": "item",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulose"
+    },
+    {
+      "name": "Sodiumsulfate",
+      "type": "item",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumsulfate"
+    },
+    {
+      "name": "Evaporite",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evaporite",
+      "path": "~/loot"
+    },
+    {
+      "name": "Evaporitebutin",
+      "type": "loottable",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evaporitebutin",
+      "path": "~/loot"
+    },
+    {
+      "name": "Baobabdoor",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabdoor"
+    },
+    {
+      "name": "Baobabtrapdoor",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabtrapdoor"
+    },
+    {
+      "name": "Cellulosecraft",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulosecraft",
+      "path": "~/craft"
+    },
+    {
+      "name": "Cellulosecraftacaciablackwood",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulosecraftacaciablackwood",
+      "path": "~/craft"
+    },
+    {
+      "name": "Cellulosecraftacaciablackwoodandotherwood",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulosecraftacaciablackwoodandotherwood",
+      "path": "~/craft"
+    },
+    {
+      "name": "Cellulosecraftacaciablackwoodhetre",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulosecraftacaciablackwoodhetre",
+      "path": "~/craft"
+    },
+    {
+      "name": "Cellulosecraftwoodhetre",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulosecraftwoodhetre",
+      "path": "~/craft"
+    },
+    {
+      "name": "Cellulosecraftwoodbaobab",
+      "type": "recipe",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulosecraftwoodbaobab",
+      "path": "~/craft"
+    },
+    {
+      "name": "Cellulosecraftacaciablackwoodbaobab",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulosecraftacaciablackwoodbaobab",
+      "path": "~/craft"
+    },
+    {
+      "name": "Cellulosecraftfullbaobab",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulosecraftfullbaobab",
+      "path": "~/craft"
+    },
+    {
+      "name": "Cellulosecraftfullhetre",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellulosecraftfullhetre",
+      "path": "~/craft"
+    },
+    {
+      "name": "Spongeitemcraft",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spongeitemcraft",
+      "path": "~/craft"
+    },
+    {
+      "name": "Spongeblockcraft",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spongeblockcraft",
+      "path": "~/craft"
+    },
+    {
+      "name": "Ostritchraw",
+      "type": "item",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchraw"
+    },
+    {
+      "name": "Ostritchcooked",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchcooked"
+    },
+    {
+      "name": "Blackfeather",
+      "type": "item",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackfeather"
+    },
+    {
+      "name": "Ostritchdrop",
+      "type": "loottable",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchdrop",
+      "path": "~/loot"
+    },
+    {
+      "name": "Ostritchbreeddrop",
+      "type": "loottable",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ostritchbreeddrop",
+      "path": "~/loot"
+    },
+    {
+      "name": "Redwooldecorative",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwooldecorative"
+    },
+    {
+      "name": "Bluewooldecorative",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluewooldecorative"
+    },
+    {
+      "name": "Yellowwooldecorative",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowwooldecorative"
+    },
+    {
+      "name": "Baobabtree01",
+      "type": "structure",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabtree_01"
+    },
+    {
+      "name": "Baobabsavanna",
+      "type": "biome",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobabsavanna"
+    },
+    {
+      "name": "Shuglin",
+      "type": "livingentity",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuglin"
+    },
+    {
+      "name": "Alveamushroom",
+      "type": "plant",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alveamushroom"
+    },
+    {
+      "name": "Baobablogiscarburant",
+      "type": "itemextension",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baobablogiscarburant"
+    },
+    {
+      "name": "Hetrelogiscarburant",
+      "type": "itemextension",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetrelogiscarburant"
+    },
+    {
+      "name": "Hetreplanksiscarburant",
+      "type": "itemextension",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hetreplanksiscarburant"
+    },
+    {
+      "name": "SakuraWood",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_wood"
+    },
+    {
+      "name": "SakuraLog",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_log"
+    },
+    {
+      "name": "SakuraPlanks",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_planks"
+    },
+    {
+      "name": "SakuraLeaves",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_leaves"
+    },
+    {
+      "name": "SakuraStairs",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_stairs"
+    },
+    {
+      "name": "SakuraSlab",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_slab"
+    },
+    {
+      "name": "SakuraFence",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_fence"
+    },
+    {
+      "name": "SakuraFenceGate",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_fence_gate"
+    },
+    {
+      "name": "SakuraPressurePlate",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_pressure_plate"
+    },
+    {
+      "name": "SakuraButton",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_button"
+    },
+    {
+      "name": "SakuraItemsTag",
+      "type": "tag",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_items_tag"
+    },
+    {
+      "name": "SakuraWoodRecipe",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_wood_recipe"
+    },
+    {
+      "name": "SakuraPlanksRecipe",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_planks_recipe"
+    },
+    {
+      "name": "SakuraStairsRecipe",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_stairs_recipe"
+    },
+    {
+      "name": "SakuraSlabRecipe",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_slab_recipe"
+    },
+    {
+      "name": "SakuraFenceRecipe",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_fence_recipe"
+    },
+    {
+      "name": "SakuraFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_fence_gate_recipe"
+    },
+    {
+      "name": "SakuraPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_pressure_plate_recipe"
+    },
+    {
+      "name": "SakuraButtonRecipe",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_button_recipe"
+    },
+    {
+      "name": "SakuraStickRecipe",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_stick_recipe"
+    },
+    {
+      "name": "Asphalt",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asphalt"
+    },
+    {
+      "name": "Asphaltx12",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asphaltx_12"
+    },
+    {
+      "name": "Asphaltx15",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asphaltx_15"
+    },
+    {
+      "name": "Asphaltx20",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asphaltx_20"
+    },
+    {
+      "name": "AmarantePlanks",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_planks"
+    },
+    {
+      "name": "AmaranteStairs",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_stairs"
+    },
+    {
+      "name": "AmaranteSlab",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_slab"
+    },
+    {
+      "name": "AmaranteFence",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_fence"
+    },
+    {
+      "name": "AmaranteFenceGate",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_fence_gate"
+    },
+    {
+      "name": "AmarantePressurePlate",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_pressure_plate"
+    },
+    {
+      "name": "AmaranteButton",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_button"
+    },
+    {
+      "name": "AmaranteItemsTag",
+      "type": "tag",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_items_tag"
+    },
+    {
+      "name": "AmaranteStairsRecipe",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_stairs_recipe"
+    },
+    {
+      "name": "AmaranteSlabRecipe",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_slab_recipe"
+    },
+    {
+      "name": "AmaranteFenceRecipe",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_fence_recipe"
+    },
+    {
+      "name": "AmaranteFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_fence_gate_recipe"
+    },
+    {
+      "name": "AmarantePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_pressure_plate_recipe"
+    },
+    {
+      "name": "AmaranteButtonRecipe",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_button_recipe"
+    },
+    {
+      "name": "AmaranteStickRecipe",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante_stick_recipe"
+    },
+    {
+      "name": "Sakuratrapdoor",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakuratrapdoor"
+    },
+    {
+      "name": "Amarantetrapdoor",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarantetrapdoor"
+    },
+    {
+      "name": "Sakuradoor",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakuradoor"
+    },
+    {
+      "name": "Amarantedoor",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarantedoor"
+    },
+    {
+      "name": "Blackwoolstairs",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackwoolstairs"
+    },
+    {
+      "name": "Bluewoolstairs",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluewoolstairs"
+    },
+    {
+      "name": "Brownwoolstairs",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brownwoolstairs"
+    },
+    {
+      "name": "Cyanwoolstairs",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyanwoolstairs"
+    },
+    {
+      "name": "Graywoolstairs",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graywoolstairs"
+    },
+    {
+      "name": "Greenwoolstairs",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "greenwoolstairs"
+    },
+    {
+      "name": "Lightbluewool",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightbluewool"
+    },
+    {
+      "name": "Lightgraywool",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightgraywool"
+    },
+    {
+      "name": "Limewoolstairs",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limewoolstairs"
+    },
+    {
+      "name": "Magentawoolstairs",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magentawoolstairs"
+    },
+    {
+      "name": "Orangewoolstairs",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangewoolstairs"
+    },
+    {
+      "name": "Pinkwoolstairs",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinkwoolstairs"
+    },
+    {
+      "name": "Purplewoolstairs",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplewoolstairs"
+    },
+    {
+      "name": "Redwoolstairs",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwoolstairs"
+    },
+    {
+      "name": "Whitewoolstairs",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewoolstairs"
+    },
+    {
+      "name": "Yellowwoolstairs",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowwoolstairs"
+    },
+    {
+      "name": "Blackwoolslabs",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackwoolslabs"
+    },
+    {
+      "name": "Bluewoolslabs",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluewoolslabs"
+    },
+    {
+      "name": "Brownwoolslabs",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brownwoolslabs"
+    },
+    {
+      "name": "Cyanwoolslabs",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyanwoolslabs"
+    },
+    {
+      "name": "Graywoolslabs",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graywoolslabs"
+    },
+    {
+      "name": "Greenwoolslabs",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "greenwoolslabs"
+    },
+    {
+      "name": "Lightbluewoolslabs",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightbluewoolslabs"
+    },
+    {
+      "name": "Lightgraywoolslabs",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightgraywoolslabs"
+    },
+    {
+      "name": "Limewoolslabs",
+      "type": "block",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limewoolslabs"
+    },
+    {
+      "name": "Magentawoolslabs",
+      "type": "block",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magentawoolslabs"
+    },
+    {
+      "name": "Orangewoolslabs",
+      "type": "block",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangewoolslabs"
+    },
+    {
+      "name": "Pinkwoolslabs",
+      "type": "block",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinkwoolslabs"
+    },
+    {
+      "name": "Purplewoolslabs",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplewoolslabs"
+    },
+    {
+      "name": "Redwoolslabs",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwoolslabs"
+    },
+    {
+      "name": "Whitewoolslabs",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitewoolslabs"
+    },
+    {
+      "name": "Yellowwoolslabs",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowwoolslabs"
+    },
+    {
+      "name": "Mudcracks",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudcracks"
+    },
+    {
+      "name": "Amarante",
+      "type": "plant",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarante"
+    },
+    {
+      "name": "Blackhayblock",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackhayblock"
+    },
+    {
+      "name": "Bluehayblock",
+      "type": "block",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluehayblock"
+    },
+    {
+      "name": "Brownhayblock",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brownhayblock"
+    },
+    {
+      "name": "Cyanhayblock",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyanhayblock"
+    },
+    {
+      "name": "Grayhayblock",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grayhayblock"
+    },
+    {
+      "name": "Greenhayblock",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "greenhayblock"
+    },
+    {
+      "name": "Lightbluehayblock",
+      "type": "block",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightbluehayblock"
+    },
+    {
+      "name": "Lightgrayhayblock",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightgrayhayblock"
+    },
+    {
+      "name": "Limehayblock",
+      "type": "block",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limehayblock"
+    },
+    {
+      "name": "Magentahayblock",
+      "type": "block",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magentahayblock"
+    },
+    {
+      "name": "Orangehayblock",
+      "type": "block",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangehayblock"
+    },
+    {
+      "name": "Pinkhayblock",
+      "type": "block",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinkhayblock"
+    },
+    {
+      "name": "Purplehayblock",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplehayblock"
+    },
+    {
+      "name": "Redhayblock",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redhayblock"
+    },
+    {
+      "name": "Whitehayblock",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitehayblock"
+    },
+    {
+      "name": "Yellowhayblock",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowhayblock"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore_smelting"
+    },
+    {
+      "name": "Bituminouscoal",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bituminouscoal"
+    },
+    {
+      "name": "Amarantestem",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amarantestem"
+    },
+    {
+      "name": "Ironstairs",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironstairs"
+    },
+    {
+      "name": "Ironslabs",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironslabs"
+    },
+    {
+      "name": "Renforcedironstairs",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "renforcedironstairs"
+    },
+    {
+      "name": "Renforcedironslabs",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "renforcedironslabs"
+    },
+    {
+      "name": "Bituminouscoalfragment",
+      "type": "item",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bituminouscoalfragment"
+    },
+    {
+      "name": "Bituminouscoalfragmentcarburant",
+      "type": "itemextension",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bituminouscoalfragmentcarburant"
+    },
+    {
+      "name": "Bituminouscoalcarburant",
+      "type": "itemextension",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bituminouscoalcarburant"
+    },
+    {
+      "name": "Oilglassbottle",
+      "type": "item",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oilglassbottle"
+    },
+    {
+      "name": "Terracottafragment",
+      "type": "item",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "terracottafragment"
+    },
+    {
+      "name": "Brownwooldecorative",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brownwooldecorative"
+    },
+    {
+      "name": "Cyanwooldecorative",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyanwooldecorative"
+    },
+    {
+      "name": "Graywooldecorative",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graywooldecorative"
+    },
+    {
+      "name": "Greenwooldecorative",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "greenwooldecorative"
+    },
+    {
+      "name": "Magentawooldecorative",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magentawooldecorative"
+    },
+    {
+      "name": "Orangewooldecorative",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangewooldecorative"
+    },
+    {
+      "name": "Pinkwooldecorative",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinkwooldecorative"
+    },
+    {
+      "name": "Purplewooldecorative",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplewooldecorative"
+    },
+    {
+      "name": "Terracottabowl",
+      "type": "item",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "terracottabowl"
+    },
+    {
+      "name": "Terracottabowlwithbituminouscoalfragment",
+      "type": "item",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "terracottabowlwithbituminouscoalfragment"
+    },
+    {
+      "name": "Terracottabowlwithliquidbituminouscoal",
+      "type": "item",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "terracottabowlwithliquidbituminouscoal"
+    },
+    {
+      "name": "ShuglinModel",
+      "type": "procedure",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuglin_model"
+    },
+    {
+      "name": "Bordeauxterracotta",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bordeauxterracotta"
+    },
+    {
+      "name": "Beigeterracotta",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beigeterracotta"
+    },
+    {
+      "name": "Pourpreterracotta",
+      "type": "block",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pourpreterracotta"
+    },
+    {
+      "name": "Jadeterracotta",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadeterracotta"
+    },
+    {
+      "name": "Limeblueterracotta",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limeblueterracotta"
+    },
+    {
+      "name": "Purpurterracotta",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpurterracotta"
+    },
+    {
+      "name": "Duck",
+      "type": "livingentity",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "duck"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "ostritch_ambiant_hurt",
+      "files": [
+        "ostritch_ambiant_hurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "ostritch_baby_child_ambiant",
+      "files": [
+        "ostritch_baby_child-highlight"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "ostritch_ambiant_older",
+      "files": [
+        "ostritch_ambiant-highlight"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "ostritch_ambiant_death_older",
+      "files": [
+        "ostritch_ambiant_death-highlight"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "ostritch_ambiant",
+      "files": [
+        "ostritch_ambiant"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "ostritch_ambiant_death",
+      "files": [
+        "ostritch_ambiant_death"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "shuglin_death",
+      "files": [
+        "shuglin_death"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "shuglin_hurt",
+      "files": [
+        "shuglin_hurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "shuglin_step",
+      "files": [
+        "shuglin_step"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "shuglin_ambiant",
+      "files": [
+        "shuglin_ambiant"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "duck_ambiant",
+      "files": [
+        "duck_ambiant_sound"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "duck_hurt",
+      "files": [
+        "duck_hurt_sound"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "duck_death",
+      "files": [
+        "duck_death_sound"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.xi_mod.renforcedironstairs": "Renforced Iron stairs",
+      "block.xi_mod.purpurwoolslabs": "Dalle en laine purpur",
+      "block.xi_mod.pourprewool": "Laine pourpre",
+      "block.xi_mod.sakuratrapdoor": "Sakura trapdoor",
+      "item.xi_mod.goatcheese": "Fromage de chèvre",
+      "block.xi_mod.purpurwool": "Laine purpur",
+      "block.xi_mod.greenorchid": "Orchidée verte",
+      "block.xi_mod.cenchrus": "Cenchrus",
+      "block.xi_mod.lily": "Lys blanche",
+      "block.xi_mod.sakura_wood": "Sakura Wood",
+      "item.xi_mod.amarantestem": "Amarante stem",
+      "block.xi_mod.sakura_leaves": "Sakura Leaves",
+      "block.xi_mod.whitewoolstairs": "Escalier en laine blanche",
+      "block.xi_mod.sakura_fence": "Sakura Fence",
+      "block.xi_mod.orangehayblock": "Orange Haybale",
+      "item.xi_mod.pourpredye": "teinture pourpre",
+      "subtitles.shuglin_ambiant": "Bruit de shuglin",
+      "item.xi_mod.oilglassbottle": "Oil glassbottle",
+      "block.xi_mod.baobabslabs": "Dalle en planches de baobab",
+      "block.xi_mod.redwoolslabs": "Red wool slab",
+      "block.xi_mod.hetreplanks": "Planche d\u0027hêtre",
+      "block.xi_mod.bordeauxwoolstairs": "Escalier en laine bordeaux",
+      "block.xi_mod.yelloworchid": "Orchidée jaune",
+      "item.xi_mod.spongeitem": "Eponge",
+      "block.xi_mod.baobabtrapdoor": "Trappe en baobab",
+      "block.xi_mod.hetredoor": "Porte d\u0027hêtre",
+      "item.xi_mod.terracottabowl": "Terracotta bowl",
+      "block.xi_mod.jadewoolslabs": "Dalle en laine jade",
+      "block.xi_mod.orangewoolslabs": "Orange wool slab",
+      "biome.xi_mod.hetreforest": "Forêt d\u0027hêtres",
+      "block.xi_mod.sakuradoor": "Sakura door",
+      "item.xi_mod.purpurdye": "teinture purpur",
+      "subtitles.duck_ambiant": "",
+      "block.xi_mod.ruby_block": "Block of Ruby",
+      "block.xi_mod.cyanwooldecorative": "Cyan wool Decorative",
+      "block.xi_mod.cyanwoolstairs": "Cyan wool stairs",
+      "block.xi_mod.hetrelog": "Bûche d\u0027hêtre",
+      "block.xi_mod.bluewoolslabs": "Blue wool slab",
+      "block.xi_mod.hetrefencegate": "Portillon en planches d\u0027hêtre",
+      "block.xi_mod.redwooldecorative": "Laine rouge décorative",
+      "block.xi_mod.pourpreterracotta": "Pourpre terracotta",
+      "block.xi_mod.graywoolstairs": "Escalier en laine grise",
+      "block.xi_mod.redhayblock": "Red Haybale",
+      "item.xi_mod.jadedye": "teinture jade",
+      "block.xi_mod.sakura_fence_gate": "Sakura Fence Gate",
+      "item.xi_mod.bituminouscoalfragment": "Bituminous coal fragment",
+      "block.xi_mod.yellowwoolslabs": "Yellow wool slab",
+      "block.xi_mod.baobabbutton": "Bouton en baobab",
+      "block.xi_mod.purplewoolslabs": "Purple wool slab",
+      "block.xi_mod.jadeterracotta": "Jade terracotta",
+      "entity.xi_mod.shuglin": "Shuglin",
+      "block.xi_mod.orangewoolstairs": "Escalier en laine orange",
+      "item.xi_mod.shuglin_spawn_egg": "Shuglin Spawn Egg",
+      "block.xi_mod.greenwooldecorative": "Green wool decorative",
+      "block.xi_mod.evaporite": "Évaporite",
+      "block.xi_mod.amarante_fence": "Amarante Fence",
+      "block.xi_mod.blueexoticorchid": "Orchidée bleue exotique",
+      "block.xi_mod.magentalily": "Lys magenta",
+      "block.xi_mod.purplewooldecorative": "Purple wool decorative",
+      "block.xi_mod.bordeauxwool": "Laine bordeaux",
+      "block.xi_mod.baobabpressureplate": "Plaque de pression en baobab",
+      "block.xi_mod.amarante_slab": "Amarante Slab",
+      "block.xi_mod.ruby_ore": "Ruby Ore",
+      "block.xi_mod.orangewooldecorative": "Orange wool decorative",
+      "block.xi_mod.bituminouscoal": "Bituminous coal",
+      "block.xi_mod.ironslabs": "Iron slab",
+      "subtitles.shuglin_step": "Bruit de pas de Shuglin",
+      "block.xi_mod.purpurwoolstairs": "Escalier en laine purpur",
+      "block.xi_mod.pinklily": "Lys rose",
+      "block.xi_mod.bilberries": "Bilberries",
+      "block.xi_mod.asphaltx_20": "Asphalt x2",
+      "block.xi_mod.pinkwoolstairs": "Escalier en laine rose",
+      "subtitles.ostritch_ambiant_hurt": "Dégâts d\u0027autruche",
+      "block.xi_mod.bilberrystage_2": "Mûrier",
+      "item.xi_mod.sodiumsulfate": "Sulfate de sodium",
+      "block.xi_mod.bilberrystage_1": "Mûrier",
+      "block.xi_mod.bilberrystage_0": "Mûres",
+      "item.xi_mod.blackfeather": "Plume noire",
+      "block.xi_mod.bordeauxterracotta": "Bordeaux terracotta",
+      "block.xi_mod.beigeterracotta": "Beige terracotta",
+      "block.xi_mod.bilberrystage_3": "Mûrier",
+      "block.xi_mod.asphaltx_15": "Asphalt x1.5",
+      "block.xi_mod.blackhayblock": "Black Haybale",
+      "item.xi_mod.limebluedye": "teinture bleu-vert",
+      "block.xi_mod.renforcedirondoor": "Porte en fer renforcé",
+      "block.xi_mod.limebluewoolslabs": "Dalle en laine bleu-vert",
+      "block.xi_mod.asphaltx_12": "Asphalt x1.2",
+      "item.xi_mod.bordeauxdye": "teinture bordeaux",
+      "block.xi_mod.lightbluewool": "Escalier en laine bleue claire",
+      "block.xi_mod.hetreleaves": "feuilles d\u0027hêtre",
+      "block.xi_mod.brownhayblock": "Brown Haybale",
+      "entity.xi_mod.ostritchbaby": "Ostritch",
+      "block.xi_mod.amarante_button": "Amarante Button",
+      "block.xi_mod.bench": "Banc en chêne",
+      "block.xi_mod.greenwoolstairs": "Escalier en laine verte",
+      "block.xi_mod.baobableaves": "Feuilles de Baobab",
+      "block.xi_mod.bluewooldecorative": "Laine bleue décorative",
+      "block.xi_mod.whitewoolslabs": "White wool slab",
+      "block.xi_mod.purplehayblock": "Purple Haybale",
+      "block.xi_mod.limewoolslabs": "Lime wool slab",
+      "block.xi_mod.magentaorchid": "Orchidée Magenta",
+      "item.xi_mod.ostritchcooked": "Viande d\u0027autruche cuite",
+      "block.xi_mod.alveamushroom": "Champignon d\u0027Alvea",
+      "block.xi_mod.yellowwoolstairs": "Escalier en laine jaune",
+      "block.xi_mod.jadewoolstairs": "Escalier en laine jade",
+      "entity.xi_mod.duck": "Duck",
+      "block.xi_mod.magentawooldecorative": "Magenta wool decorative",
+      "item.xi_mod.terracottabowlwithbituminouscoalfragment": "Terracotta bowl with fragment of bituminous coal",
+      "block.xi_mod.pourprewoolslabs": "Dalle en laine pourpre",
+      "block.xi_mod.amarantedoor": "Amarante door",
+      "block.xi_mod.pourprewoolstairs": "Escalier en laine pourpre",
+      "block.xi_mod.bluehayblock": "Blue Haybale",
+      "block.xi_mod.sakura_pressure_plate": "Sakura Pressure Plate",
+      "block.xi_mod.tallaridgrass": "Herbe aride",
+      "item.xi_mod.duck_spawn_egg": "Duck Spawn Egg",
+      "item.xi_mod.ostritchbreed_spawn_egg": "Ostritch Spawn Egg",
+      "block.xi_mod.sakura_stairs": "Sakura Stairs",
+      "block.xi_mod.hetretrapdoor": "Trappe d\u0027hêtre",
+      "block.xi_mod.asphalt": "Asphalt",
+      "item.xi_mod.ostritchraw": "Viande d\u0027autruche cru",
+      "block.xi_mod.hetreslabs": "Dalle en planches d\u0027hêtre",
+      "block.xi_mod.greenwoolslabs": "Green wool slab",
+      "block.xi_mod.pourprelily": "Lys pourpre",
+      "block.xi_mod.lightgraywoolslabs": "Light gray wool slab",
+      "entity.xi_mod.ostritch": "Ostritch",
+      "block.xi_mod.pinkwoolslabs": "Pink wool slab",
+      "block.xi_mod.ironstairs": "Iron stairs",
+      "subtitles.ostritch_ambiant_death_older": "",
+      "subtitles.ostritch_ambiant_death": "Autruche qui meurt",
+      "block.xi_mod.mud": "Boue",
+      "block.xi_mod.jadewool": "Laine jade",
+      "block.xi_mod.amarante": "Amarante",
+      "block.xi_mod.baobabdoor": "Porte en baobab",
+      "block.xi_mod.amarante_stairs": "Amarante Stairs",
+      "item.xi_mod.ruby": "Ruby",
+      "block.xi_mod.orangelily": "Lys orange",
+      "subtitles.duck_death": "",
+      "block.xi_mod.paperwalldoor": "Porte de paroi de papier",
+      "block.xi_mod.amarante_fence_gate": "Amarante Fence Gate",
+      "item.xi_mod.terracottafragment": "Fragment of terracotta",
+      "block.xi_mod.hetrepressureplate": "Plaque de pression en planches d\u0027hêtre",
+      "block.xi_mod.yellowwooldecorative": "Laine jaune décorative",
+      "block.xi_mod.beigewoolslabs": "Dalle en laine beige",
+      "block.xi_mod.sakura_button": "Sakura Button",
+      "block.xi_mod.purpurterracotta": "Purpur terracotta",
+      "block.xi_mod.rubbervineleaves": "Liane de gatope",
+      "itemGroup.tabxi": "Xi mod",
+      "block.xi_mod.magentawoolslabs": "Magenta wool slab",
+      "block.xi_mod.purpleorchid": "Orchidée violette",
+      "block.xi_mod.pinkwooldecorative": "Pink wool decorative",
+      "item.xi_mod.milkglassbottle": "Bouteille de lait",
+      "block.xi_mod.amarante_pressure_plate": "Amarante Pressure Plate",
+      "block.xi_mod.brownwoolstairs": "Escalier en laine marron",
+      "block.xi_mod.magentawoolstairs": "Escalier en laine magenta",
+      "block.xi_mod.sakura_log": "Sakura Log",
+      "block.xi_mod.beigewool": "Laine beige",
+      "subtitles.ostritch_ambiant_older": "",
+      "block.xi_mod.redwoolstairs": "Escalier en laine rouge",
+      "block.xi_mod.cyanhayblock": "Cyan Haybale",
+      "block.xi_mod.lightgrayhayblock": "Light gray Haybale",
+      "block.xi_mod.pinkhayblock": "Pink Haybale",
+      "item.xi_mod.ostritchbaby_spawn_egg": "Ostritch Spawn Egg",
+      "subtitles.ostritch_ambiant": "Bruits d\u0027autruche",
+      "block.xi_mod.sakura_slab": "Sakura Slab",
+      "block.xi_mod.hetrestairs": "Escalier en planches d\u0027hêtre",
+      "block.xi_mod.limebluewoolstairs": "Escalier en laine bleu-vert",
+      "block.xi_mod.amarante_planks": "Amarante Planks",
+      "biome.xi_mod.baobabsavanna": "Savane de baobabs",
+      "block.xi_mod.bluewoolstairs": "Escalier en laine bleue",
+      "block.xi_mod.limehayblock": "Lime Haybale",
+      "block.xi_mod.mudcracks": "Mudcracks",
+      "block.xi_mod.bordeauxwoolslabs": "Dalle en laine bordeaux",
+      "block.xi_mod.pinkorchid": "Orchidée rose",
+      "block.xi_mod.renforcedironslabs": "Renforced Iron slab",
+      "block.xi_mod.baobabstairs": "Escalier en planches de baobab",
+      "block.xi_mod.paperwalldooropen": "Porte de paroi de papier",
+      "item.xi_mod.bilberryitem": "Myrtilles",
+      "block.xi_mod.baobablog": "Bûche de Baobab",
+      "block.xi_mod.limewoolstairs": "Escalier en laine vert clair",
+      "block.xi_mod.hetrefence": "Barrière en planches d\u0027hêtre",
+      "block.xi_mod.blackwoolslabs": "Black wool slab",
+      "item.xi_mod.spongehumitem": "Eponge humide",
+      "block.xi_mod.baobabfence": "Barrière en baobab",
+      "block.xi_mod.limebluewool": "Laine bleu-vert",
+      "block.xi_mod.lightbluewoolslabs": "Light blue wool slab",
+      "block.xi_mod.blackwoolstairs": "Escalier en laine noire",
+      "block.xi_mod.hetrebutton": "Bouton en planches d\u0027hêtre",
+      "block.xi_mod.sakura_planks": "Sakura Planks",
+      "block.xi_mod.beigewoolstairs": "Escalier en laine beige",
+      "block.xi_mod.grayhayblock": "Gray Haybale",
+      "block.xi_mod.renforcedironblock": "Bloc de fer renforcé",
+      "block.xi_mod.renforcedironbars": "Barreaux en fer renforcé",
+      "subtitles.shuglin_hurt": "Dégâts de Shuglin",
+      "item.xi_mod.renforcedironingot": "Lingot de fer renforcé",
+      "block.xi_mod.lightbluehayblock": "Light blue Haybale",
+      "block.xi_mod.aridgrass": "Herbe aride",
+      "block.xi_mod.purplewoolstairs": "Escalier en laine violette",
+      "entity.xi_mod.ostritchbreed": "Ostritch",
+      "subtitles.duck_hurt": "",
+      "block.xi_mod.limeblueterracotta": "Lime blue terracotta",
+      "block.xi_mod.yellowlily": "Lys jaune",
+      "block.xi_mod.magentahayblock": "Magenta Haybale",
+      "subtitles.shuglin_death": "Shuglin qui meurt",
+      "block.xi_mod.yellowhayblock": "Yellow Haybale",
+      "item.xi_mod.beigedye": "teinture beige",
+      "block.xi_mod.amarantetrapdoor": "Amarante trapdoor",
+      "block.xi_mod.whitehayblock": "White Haybale",
+      "subtitles.ostritch_baby_child_ambiant": "Bruits d\u0027autruche",
+      "item.xi_mod.ostritch_spawn_egg": "Ostritch Spawn Egg",
+      "block.xi_mod.brownwooldecorative": "Brown wool decorative",
+      "item.xi_mod.terracottabowlwithliquidbituminouscoal": "Terracottabowl with liquid of bituminous coal",
+      "block.xi_mod.redlily": "Lys rouge",
+      "block.xi_mod.cyanwoolslabs": "Cyan wool slab",
+      "block.xi_mod.baobabplanks": "Planches de baobab",
+      "block.xi_mod.lightgraywool": "Escalier en laine gris clair",
+      "block.xi_mod.baobabfencegate": "Portillon en baobab",
+      "block.xi_mod.graywoolslabs": "Gray wool slab",
+      "item.xi_mod.cellulose": "Cellulose",
+      "block.xi_mod.brownwoolslabs": "Brown wool slab",
+      "block.xi_mod.paperwall": "Paroi de papier",
+      "block.xi_mod.greenhayblock": "Green Haybale",
+      "block.xi_mod.graywooldecorative": "Gray wool decorative"
+    },
+    "fr_fr": {
+      "block.xi_mod.renforcedironstairs": "Escalier en fer renforcé",
+      "block.xi_mod.purpurwoolslabs": "Dalle en laine purpur",
+      "block.xi_mod.pourprewool": "Laine pourpre",
+      "block.xi_mod.sakuratrapdoor": "Trappe en sakura",
+      "item.xi_mod.goatcheese": "Fromage de chèvre",
+      "block.xi_mod.greenorchid": "Orchidée verte",
+      "block.xi_mod.purpurwool": "Laine purpur",
+      "block.xi_mod.cenchrus": "Cenchrus",
+      "block.xi_mod.lily": "Lys blanche",
+      "block.xi_mod.sakura_wood": "Bois de sakura",
+      "item.xi_mod.amarantestem": "Tige d\u0027Amarante",
+      "block.xi_mod.sakura_leaves": "Feuilles de sakura",
+      "block.xi_mod.whitewoolstairs": "Escalier en laine blanche",
+      "block.xi_mod.sakura_fence": "Barrière de sakura",
+      "block.xi_mod.orangehayblock": "Bloc de paille orange",
+      "item.xi_mod.pourpredye": "teinture pourpre",
+      "subtitles.shuglin_ambiant": "Bruit de shuglin",
+      "item.xi_mod.oilglassbottle": "Bouteille d\u0027huile",
+      "block.xi_mod.baobabslabs": "Dalle en planches de baobab",
+      "block.xi_mod.redwoolslabs": "Red wool slab",
+      "block.xi_mod.hetreplanks": "Planche d\u0027hêtre",
+      "block.xi_mod.bordeauxwoolstairs": "Escalier en laine bordeaux",
+      "item.xi_mod.spongeitem": "Eponge",
+      "block.xi_mod.yelloworchid": "Orchidée jaune",
+      "block.xi_mod.baobabtrapdoor": "Trappe en baobab",
+      "block.xi_mod.hetredoor": "Porte d\u0027hêtre",
+      "block.xi_mod.jadewoolslabs": "Dalle en laine jade",
+      "item.xi_mod.terracottabowl": "Bol en terre cuite",
+      "block.xi_mod.orangewoolslabs": "Dalle en laine orange",
+      "biome.xi_mod.hetreforest": "Forêt d\u0027hêtres",
+      "block.xi_mod.sakuradoor": "Porte de sakura",
+      "item.xi_mod.purpurdye": "teinture purpur",
+      "subtitles.duck_ambiant": "",
+      "block.xi_mod.ruby_block": "Bloc de rubis",
+      "block.xi_mod.cyanwooldecorative": "Laine cyan décorative",
+      "block.xi_mod.cyanwoolstairs": "Escalier en laine cyan",
+      "block.xi_mod.hetrelog": "Bûche d\u0027hêtre",
+      "block.xi_mod.bluewoolslabs": "Dalle en laine bleue",
+      "block.xi_mod.hetrefencegate": "Portillon en planches d\u0027hêtre",
+      "block.xi_mod.redwooldecorative": "Laine rouge décorative",
+      "block.xi_mod.pourpreterracotta": "Terre cuite pourpre",
+      "block.xi_mod.redhayblock": "Bloc de paille rouge",
+      "block.xi_mod.graywoolstairs": "Escalier en laine grise",
+      "item.xi_mod.jadedye": "teinture jade",
+      "block.xi_mod.sakura_fence_gate": "Portillon de sakura",
+      "item.xi_mod.bituminouscoalfragment": "Fragment de houille",
+      "block.xi_mod.yellowwoolslabs": "Dalle en laine jaune",
+      "block.xi_mod.baobabbutton": "Bouton en baobab",
+      "block.xi_mod.purplewoolslabs": "Dalle en laine violette",
+      "block.xi_mod.jadeterracotta": "Terre cuite jade",
+      "entity.xi_mod.shuglin": "Shuglin",
+      "block.xi_mod.orangewoolstairs": "Escalier en laine orange",
+      "item.xi_mod.shuglin_spawn_egg": "Oeuf d\u0027apparition de Shuglin",
+      "block.xi_mod.greenwooldecorative": "Laine verte décorative",
+      "block.xi_mod.evaporite": "Évaporite",
+      "block.xi_mod.blueexoticorchid": "Orchidée bleue exotique",
+      "block.xi_mod.amarante_fence": "Barrière d\u0027amarante",
+      "block.xi_mod.magentalily": "Lys magenta",
+      "block.xi_mod.bordeauxwool": "Laine bordeaux",
+      "block.xi_mod.purplewooldecorative": "Laine violette décorative",
+      "block.xi_mod.baobabpressureplate": "Plaque de pression en baobab",
+      "block.xi_mod.amarante_slab": "Dalle en planches d\u0027amarante",
+      "block.xi_mod.ruby_ore": "Minerai de rubis",
+      "block.xi_mod.orangewooldecorative": "Laine orange décorative",
+      "block.xi_mod.ironslabs": "Dalle en fer",
+      "block.xi_mod.bituminouscoal": "Houille",
+      "subtitles.shuglin_step": "Bruit de pas de Shuglin",
+      "block.xi_mod.pinklily": "Lys rose",
+      "block.xi_mod.purpurwoolstairs": "Escalier en laine purpur",
+      "block.xi_mod.asphaltx_20": "Asphalte x2",
+      "block.xi_mod.bilberries": "Mûres",
+      "block.xi_mod.pinkwoolstairs": "Escalier en laine rose",
+      "subtitles.ostritch_ambiant_hurt": "Dégâts d\u0027autruche",
+      "block.xi_mod.bilberrystage_2": "Mûrier",
+      "item.xi_mod.sodiumsulfate": "Sulfate de sodium",
+      "block.xi_mod.bilberrystage_1": "Mûrier",
+      "block.xi_mod.bilberrystage_0": "Mûres",
+      "item.xi_mod.blackfeather": "Plume noire",
+      "block.xi_mod.bordeauxterracotta": "Terre cuite bordeaux",
+      "block.xi_mod.beigeterracotta": "Terre cuite beige",
+      "block.xi_mod.bilberrystage_3": "Mûrier",
+      "block.xi_mod.asphaltx_15": "Asphalte x1.5",
+      "block.xi_mod.blackhayblock": "Bloc de paille noire",
+      "item.xi_mod.limebluedye": "teinture bleu-vert",
+      "block.xi_mod.renforcedirondoor": "Porte en fer renforcé",
+      "block.xi_mod.limebluewoolslabs": "Dalle en laine bleu-vert",
+      "block.xi_mod.asphaltx_12": "Asphalte x1.2",
+      "item.xi_mod.bordeauxdye": "teinture bordeaux",
+      "block.xi_mod.lightbluewool": "Escalier en laine bleue claire",
+      "block.xi_mod.hetreleaves": "feuilles d\u0027hêtre",
+      "block.xi_mod.brownhayblock": "Bloc de paille marron",
+      "entity.xi_mod.ostritchbaby": "Autruche",
+      "block.xi_mod.amarante_button": "Bouton d\u0027amarante",
+      "block.xi_mod.bench": "Banc en chêne",
+      "block.xi_mod.greenwoolstairs": "Escalier en laine verte",
+      "block.xi_mod.baobableaves": "Feuilles de Baobab",
+      "block.xi_mod.bluewooldecorative": "Laine bleue décorative",
+      "block.xi_mod.whitewoolslabs": "Dalle en laine blanche",
+      "block.xi_mod.purplehayblock": "Bloc de paille violette",
+      "block.xi_mod.limewoolslabs": "Dalle en laine vert clair",
+      "block.xi_mod.magentaorchid": "Orchidée Magenta",
+      "item.xi_mod.ostritchcooked": "Viande d\u0027autruche cuite",
+      "block.xi_mod.alveamushroom": "Champignon d\u0027Alvea",
+      "block.xi_mod.yellowwoolstairs": "Escalier en laine jaune",
+      "block.xi_mod.jadewoolstairs": "Escalier en laine jade",
+      "entity.xi_mod.duck": "Canard",
+      "block.xi_mod.magentawooldecorative": "Laine magenta décorative",
+      "item.xi_mod.terracottabowlwithbituminouscoalfragment": "Bol en terre cuite avec fragment de houille",
+      "block.xi_mod.pourprewoolslabs": "Dalle en laine pourpre",
+      "block.xi_mod.amarantedoor": "Porte d\u0027amarante",
+      "block.xi_mod.pourprewoolstairs": "Escalier en laine pourpre",
+      "block.xi_mod.bluehayblock": "Bloc de paille bleue",
+      "block.xi_mod.sakura_pressure_plate": "Plaque de pression en sakura",
+      "block.xi_mod.tallaridgrass": "Herbe aride",
+      "item.xi_mod.duck_spawn_egg": "Oeuf d\u0027apparition de canard",
+      "item.xi_mod.ostritchbreed_spawn_egg": "Oeuf d\u0027apparition d\u0027autruche",
+      "block.xi_mod.sakura_stairs": "Escalier en planches de sakura",
+      "block.xi_mod.hetretrapdoor": "Trappe d\u0027hêtre",
+      "block.xi_mod.asphalt": "Asphalte",
+      "item.xi_mod.ostritchraw": "Viande d\u0027autruche cru",
+      "block.xi_mod.hetreslabs": "Dalle en planches d\u0027hêtre",
+      "block.xi_mod.greenwoolslabs": "Dalle en laine verte",
+      "block.xi_mod.pourprelily": "Lys pourpre",
+      "block.xi_mod.lightgraywoolslabs": "Dalle en laine gris clair",
+      "entity.xi_mod.ostritch": "Autruche",
+      "block.xi_mod.pinkwoolslabs": "Dalle en laine rose",
+      "block.xi_mod.ironstairs": "Escalier en fer",
+      "subtitles.ostritch_ambiant_death_older": "",
+      "subtitles.ostritch_ambiant_death": "Autruche qui meurt",
+      "block.xi_mod.mud": "Boue",
+      "block.xi_mod.jadewool": "Laine jade",
+      "block.xi_mod.amarante": "Amarante",
+      "block.xi_mod.baobabdoor": "Porte en baobab",
+      "block.xi_mod.amarante_stairs": "Escalier en planches d\u0027amarante",
+      "item.xi_mod.ruby": "Rubis",
+      "block.xi_mod.orangelily": "Lys orange",
+      "subtitles.duck_death": "",
+      "block.xi_mod.paperwalldoor": "Porte de paroi de papier",
+      "block.xi_mod.amarante_fence_gate": "Portillon d\u0027amarante",
+      "item.xi_mod.terracottafragment": "Fragment de terre cuite",
+      "block.xi_mod.hetrepressureplate": "Plaque de pression en planches d\u0027hêtre",
+      "block.xi_mod.yellowwooldecorative": "Laine jaune décorative",
+      "block.xi_mod.beigewoolslabs": "Dalle en laine beige",
+      "block.xi_mod.sakura_button": "Bouton en sakura",
+      "block.xi_mod.purpurterracotta": "Terre cuite purpur",
+      "block.xi_mod.rubbervineleaves": "Liane de gatope",
+      "itemGroup.tabxi": "Xi mod",
+      "block.xi_mod.magentawoolslabs": "Dalle en laine magenta",
+      "block.xi_mod.purpleorchid": "Orchidée violette",
+      "block.xi_mod.pinkwooldecorative": "Laine rose décorative",
+      "item.xi_mod.milkglassbottle": "Bouteille de lait",
+      "block.xi_mod.amarante_pressure_plate": "Plaque de pression en amarante",
+      "block.xi_mod.brownwoolstairs": "Escalier en laine marron",
+      "block.xi_mod.magentawoolstairs": "Escalier en laine magenta",
+      "block.xi_mod.sakura_log": "Bûche de sakura",
+      "block.xi_mod.beigewool": "Laine beige",
+      "subtitles.ostritch_ambiant_older": "",
+      "block.xi_mod.redwoolstairs": "Escalier en laine rouge",
+      "block.xi_mod.cyanhayblock": "Bloc de paille cyan",
+      "block.xi_mod.lightgrayhayblock": "Bloc de paille gris clair",
+      "block.xi_mod.pinkhayblock": "Bloc de paille rose",
+      "item.xi_mod.ostritchbaby_spawn_egg": "Oeuf d\u0027apparition d\u0027autruche",
+      "subtitles.ostritch_ambiant": "Bruits d\u0027autruche",
+      "block.xi_mod.sakura_slab": "Dalle en planches de sakura",
+      "block.xi_mod.hetrestairs": "Escalier en planches d\u0027hêtre",
+      "block.xi_mod.limebluewoolstairs": "Escalier en laine bleu-vert",
+      "block.xi_mod.amarante_planks": "Planches d\u0027amarante",
+      "biome.xi_mod.baobabsavanna": "Savane de baobabs",
+      "block.xi_mod.bluewoolstairs": "Escalier en laine bleue",
+      "block.xi_mod.limehayblock": "Bloc de paille vert clair",
+      "block.xi_mod.mudcracks": "Boue fissurée",
+      "block.xi_mod.bordeauxwoolslabs": "Dalle en laine bordeaux",
+      "block.xi_mod.pinkorchid": "Orchidée rose",
+      "block.xi_mod.renforcedironslabs": "Dalle en fer renforcé",
+      "block.xi_mod.baobabstairs": "Escalier en planches de baobab",
+      "block.xi_mod.paperwalldooropen": "Porte de paroi de papier",
+      "item.xi_mod.bilberryitem": "Myrtilles",
+      "block.xi_mod.baobablog": "Bûche de Baobab",
+      "block.xi_mod.limewoolstairs": "Escalier en laine vert clair",
+      "block.xi_mod.hetrefence": "Barrière en planches d\u0027hêtre",
+      "block.xi_mod.blackwoolslabs": "Dalle en laine noire",
+      "item.xi_mod.spongehumitem": "Eponge humide",
+      "block.xi_mod.baobabfence": "Barrière en baobab",
+      "block.xi_mod.limebluewool": "Laine bleu-vert",
+      "block.xi_mod.lightbluewoolslabs": "Dalle en laine bleu clair",
+      "block.xi_mod.blackwoolstairs": "Escalier en laine noire",
+      "block.xi_mod.hetrebutton": "Bouton en planches d\u0027hêtre",
+      "block.xi_mod.sakura_planks": "Planches de sakura",
+      "block.xi_mod.beigewoolstairs": "Escalier en laine beige",
+      "block.xi_mod.grayhayblock": "Bloc de paille grise",
+      "block.xi_mod.renforcedironblock": "Bloc de fer renforcé",
+      "block.xi_mod.redwoolslabsD": "Dalle en laine rouge",
+      "block.xi_mod.renforcedironbars": "Barreaux en fer renforcé",
+      "subtitles.shuglin_hurt": "Dégâts de Shuglin",
+      "item.xi_mod.renforcedironingot": "Lingot de fer renforcé",
+      "block.xi_mod.lightbluehayblock": "Bloc de paille bleu clair",
+      "block.xi_mod.aridgrass": "Herbe aride",
+      "block.xi_mod.purplewoolstairs": "Escalier en laine violette",
+      "entity.xi_mod.ostritchbreed": "Autruche",
+      "subtitles.duck_hurt": "",
+      "block.xi_mod.limeblueterracotta": "Terre cuite bleu-vert",
+      "block.xi_mod.yellowlily": "Lys jaune",
+      "block.xi_mod.magentahayblock": "Bloc de paille magenta",
+      "subtitles.shuglin_death": "Shuglin qui meurt",
+      "block.xi_mod.yellowhayblock": "Bloc de paille jaune",
+      "item.xi_mod.beigedye": "teinture beige",
+      "block.xi_mod.amarantetrapdoor": "Trappe d\u0027amarante",
+      "block.xi_mod.whitehayblock": "Bloc de paille blanche",
+      "subtitles.ostritch_baby_child_ambiant": "Bruits d\u0027autruche",
+      "item.xi_mod.ostritch_spawn_egg": "Oeuf d\u0027apparition d\u0027autruche",
+      "block.xi_mod.brownwooldecorative": "Laine marron décorative",
+      "item.xi_mod.terracottabowlwithliquidbituminouscoal": "Bol en terre cuite avec houille liquide",
+      "block.xi_mod.redlily": "Lys rouge",
+      "block.xi_mod.cyanwoolslabs": "Dalle en laine cyan",
+      "block.xi_mod.baobabplanks": "Planches de baobab",
+      "block.xi_mod.lightgraywool": "Escalier en laine gris clair",
+      "block.xi_mod.baobabfencegate": "Portillon en baobab",
+      "block.xi_mod.graywoolslabs": "Dalle en laine grise",
+      "item.xi_mod.cellulose": "Cellulose",
+      "block.xi_mod.brownwoolslabs": "Dalle en laine marron",
+      "block.xi_mod.paperwall": "Paroi de papier",
+      "block.xi_mod.greenhayblock": "Bloc de paille verte",
+      "block.xi_mod.graywooldecorative": "Laine grise décorative"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "ostritchadult",
+        "children": []
+      },
+      {
+        "name": "ostritch",
+        "children": []
+      },
+      {
+        "name": "craft",
+        "children": []
+      },
+      {
+        "name": "orchid",
+        "children": []
+      },
+      {
+        "name": "loot",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "xi_mod",
+    "modName": "xi mod",
+    "version": "1.0.0",
+    "author": "natha, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.ximod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

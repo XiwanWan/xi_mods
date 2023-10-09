@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xi_mod:blocks/cenchrus",
+    "particle": "xi_mod:blocks/cenchrus"
+  }
+}

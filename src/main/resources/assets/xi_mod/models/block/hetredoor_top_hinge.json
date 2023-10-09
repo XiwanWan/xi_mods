@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "xi_mod:blocks/beech_door_bottom",
+    "top": "xi_mod:blocks/beech_door_top"
+  }
+}

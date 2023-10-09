@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xi_mod:blocks/beech_planls",
+    "up": "xi_mod:blocks/beech_planls",
+    "north": "xi_mod:blocks/beech_planls",
+    "east": "xi_mod:blocks/beech_planls",
+    "south": "xi_mod:blocks/beech_planls",
+    "west": "xi_mod:blocks/beech_planls",
+    "particle": "xi_mod:blocks/beech_planls"
+  }
+}

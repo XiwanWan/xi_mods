@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/sakura_slab"
+    },
+    "type=top": {
+      "model": "xi_mod:block/sakura_slab_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/sakura_slab_full"
+    }
+  }
+}

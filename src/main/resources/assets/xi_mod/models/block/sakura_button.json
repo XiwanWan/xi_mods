@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "xi_mod:blocks/sakura_planks"
+  }
+}

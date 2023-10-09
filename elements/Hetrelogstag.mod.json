@@ -1,0 +1,13 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "xi_hetrelogs",
+    "namespace": "forge"
+  }
+}

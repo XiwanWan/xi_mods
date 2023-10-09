@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xi_mod:block/paperwalldooropen"
+    },
+    "facing=east": {
+      "model": "xi_mod:block/paperwalldooropen",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xi_mod:block/paperwalldooropen",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xi_mod:block/paperwalldooropen",
+      "y": 270
+    }
+  }
+}

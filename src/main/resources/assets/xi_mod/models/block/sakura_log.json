@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xi_mod:blocks/sakura_lop_top",
+    "up": "xi_mod:blocks/sakura_lop_top",
+    "north": "xi_mod:blocks/sakura_log",
+    "east": "xi_mod:blocks/sakura_log",
+    "south": "xi_mod:blocks/sakura_log",
+    "west": "xi_mod:blocks/sakura_log",
+    "particle": "xi_mod:blocks/sakura_lop_top"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "ostritch_ambiant_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:ostritch_ambiant_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "ostritch_baby_child_ambiant": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:ostritch_baby_child-highlight",
+        "stream": false
+      }
+    ]
+  },
+  "ostritch_ambiant_older": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:ostritch_ambiant-highlight",
+        "stream": false
+      }
+    ]
+  },
+  "ostritch_ambiant_death_older": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:ostritch_ambiant_death-highlight",
+        "stream": false
+      }
+    ]
+  },
+  "ostritch_ambiant": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:ostritch_ambiant",
+        "stream": false
+      }
+    ]
+  },
+  "ostritch_ambiant_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:ostritch_ambiant_death",
+        "stream": false
+      }
+    ]
+  },
+  "shuglin_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:shuglin_death",
+        "stream": false
+      }
+    ]
+  },
+  "shuglin_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:shuglin_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "shuglin_step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:shuglin_step",
+        "stream": false
+      }
+    ]
+  },
+  "shuglin_ambiant": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:shuglin_ambiant",
+        "stream": false
+      }
+    ]
+  },
+  "duck_ambiant": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:duck_ambiant_sound",
+        "stream": false
+      }
+    ]
+  },
+  "duck_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:duck_hurt_sound",
+        "stream": false
+      }
+    ]
+  },
+  "duck_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xi_mod:duck_death_sound",
+        "stream": false
+      }
+    ]
+  }
+}

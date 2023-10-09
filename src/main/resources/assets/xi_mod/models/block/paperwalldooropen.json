@@ -1,0 +1,8 @@
+{
+  "parent": "xi_mod:custom/paperwalldooropen",
+  "textures": {
+    "all": "xi_mod:blocks/paperwall_door",
+    "particle": "xi_mod:blocks/paperwall_door",
+    "0": "xi_mod:blocks/paperwall_door"
+  }
+}

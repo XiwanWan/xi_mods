@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "xi_mod:blocks/blue_wool",
+    "top": "xi_mod:blocks/blue_wool",
+    "side": "xi_mod:blocks/blue_wool"
+  }
+}

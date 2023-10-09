@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/limewoolslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/limewoolslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/limewoolslabs_full"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xi_mod:cellulose"
+    },
+    {
+      "item": "xi_mod:cellulose"
+    },
+    {
+      "item": "xi_mod:cellulose"
+    },
+    {
+      "item": "xi_mod:cellulose"
+    },
+    {
+      "item": "xi_mod:sodiumsulfate"
+    },
+    {
+      "item": "xi_mod:cellulose"
+    },
+    {
+      "item": "xi_mod:cellulose"
+    },
+    {
+      "item": "xi_mod:cellulose"
+    },
+    {
+      "item": "xi_mod:cellulose"
+    }
+  ],
+  "result": {
+    "item": "xi_mod:spongeitem",
+    "count": 1
+  }
+}

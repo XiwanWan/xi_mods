@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "xi_mod:block/baobabpressureplate"
+    },
+    "powered=true": {
+      "model": "xi_mod:block/baobabpressureplate_down"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "xi_mod:blocks/white_wool",
+    "top": "xi_mod:blocks/white_wool",
+    "side": "xi_mod:blocks/white_wool"
+  }
+}

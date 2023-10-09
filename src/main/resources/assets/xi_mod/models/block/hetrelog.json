@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xi_mod:blocks/hetre_log_top",
+    "up": "xi_mod:blocks/hetre_log_top",
+    "north": "xi_mod:blocks/hetre_log",
+    "east": "xi_mod:blocks/hetre_log",
+    "south": "xi_mod:blocks/hetre_log",
+    "west": "xi_mod:blocks/hetre_log",
+    "particle": "xi_mod:blocks/hetre_log_top"
+  }
+}

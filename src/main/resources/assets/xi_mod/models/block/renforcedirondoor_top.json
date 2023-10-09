@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "xi_mod:blocks/renforced_iron_door_bottom",
+    "top": "xi_mod:blocks/renforced_iron_door_top"
+  }
+}

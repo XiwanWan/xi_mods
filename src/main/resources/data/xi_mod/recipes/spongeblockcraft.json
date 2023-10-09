@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xi_mod:spongeitem"
+    },
+    {
+      "item": "xi_mod:spongeitem"
+    },
+    {
+      "item": "xi_mod:spongeitem"
+    },
+    {
+      "item": "xi_mod:spongeitem"
+    },
+    {
+      "item": "xi_mod:spongeitem"
+    },
+    {
+      "item": "xi_mod:spongeitem"
+    },
+    {
+      "item": "xi_mod:spongeitem"
+    },
+    {
+      "item": "xi_mod:spongeitem"
+    },
+    {
+      "item": "xi_mod:spongeitem"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sponge",
+    "count": 1
+  }
+}

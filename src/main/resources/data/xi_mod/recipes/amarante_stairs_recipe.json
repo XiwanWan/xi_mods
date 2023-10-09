@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xi_mod:amarante_planks"
+    },
+    "3": {
+      "item": "xi_mod:amarante_planks"
+    },
+    "4": {
+      "item": "xi_mod:amarante_planks"
+    },
+    "6": {
+      "item": "xi_mod:amarante_planks"
+    },
+    "7": {
+      "item": "xi_mod:amarante_planks"
+    },
+    "8": {
+      "item": "xi_mod:amarante_planks"
+    }
+  },
+  "result": {
+    "item": "xi_mod:amarante_stairs",
+    "count": 4
+  }
+}

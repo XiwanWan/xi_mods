@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xi_mod:blocks/rubber_vine_leaves",
+    "particle": "xi_mod:blocks/rubber_vine_leaves"
+  }
+}

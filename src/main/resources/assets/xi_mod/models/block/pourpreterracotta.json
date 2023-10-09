@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xi_mod:blocks/pourpre_terracotta",
+    "particle": "xi_mod:blocks/pourpre_terracotta"
+  }
+}

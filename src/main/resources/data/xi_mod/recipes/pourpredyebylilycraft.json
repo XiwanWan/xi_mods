@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xi_mod:pourprelily"
+    }
+  ],
+  "result": {
+    "item": "xi_mod:pourpredye",
+    "count": 1
+  }
+}

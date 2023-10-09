@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "xi_mod:blocks/hetre_leaves",
+    "particle": "xi_mod:blocks/hetre_leaves"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "xi_mod:blocks/barreau_renforce_top",
+    "pane": "xi_mod:blocks/barreau_renforce"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "xi_mod:block/sakura_pressure_plate"
+    },
+    "powered=true": {
+      "model": "xi_mod:block/sakura_pressure_plate_down"
+    }
+  }
+}

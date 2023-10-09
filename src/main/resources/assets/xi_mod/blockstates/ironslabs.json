@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/ironslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/ironslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/ironslabs_full"
+    }
+  }
+}

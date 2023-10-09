@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/magentawoolslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/magentawoolslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/magentawoolslabs_full"
+    }
+  }
+}

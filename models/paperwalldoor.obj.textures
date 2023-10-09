@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "m_91be374b-08ec-ab52-3186-633be717b754": "paperwall_door"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xi_mod:blocks/red_lily",
+    "particle": "xi_mod:blocks/red_lily"
+  }
+}

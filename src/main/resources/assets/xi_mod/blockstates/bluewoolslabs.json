@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/bluewoolslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/bluewoolslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/bluewoolslabs_full"
+    }
+  }
+}

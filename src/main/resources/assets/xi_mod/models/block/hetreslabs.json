@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "xi_mod:blocks/beech_planls",
+    "top": "xi_mod:blocks/beech_planls",
+    "side": "xi_mod:blocks/beech_planls"
+  }
+}

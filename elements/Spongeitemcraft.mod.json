@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Cellulose"
+      },
+      {
+        "value": "CUSTOM:Cellulose"
+      },
+      {
+        "value": "CUSTOM:Cellulose"
+      },
+      {
+        "value": "CUSTOM:Cellulose"
+      },
+      {
+        "value": "CUSTOM:Sodiumsulfate"
+      },
+      {
+        "value": "CUSTOM:Cellulose"
+      },
+      {
+        "value": "CUSTOM:Cellulose"
+      },
+      {
+        "value": "CUSTOM:Cellulose"
+      },
+      {
+        "value": "CUSTOM:Cellulose"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Spongeitem"
+    },
+    "name": "spongeitemcraft",
+    "namespace": "mod"
+  }
+}

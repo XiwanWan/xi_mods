@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "xi_mod:blocks/amarante_planks",
+    "particle": "xi_mod:blocks/amarante_planks"
+  }
+}

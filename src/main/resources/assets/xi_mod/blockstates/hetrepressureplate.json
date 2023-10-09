@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "xi_mod:block/hetrepressureplate"
+    },
+    "powered=true": {
+      "model": "xi_mod:block/hetrepressureplate_down"
+    }
+  }
+}

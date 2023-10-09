@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xi_mod:blocks/bituminous_coal",
+    "particle": "xi_mod:blocks/bituminous_coal"
+  }
+}

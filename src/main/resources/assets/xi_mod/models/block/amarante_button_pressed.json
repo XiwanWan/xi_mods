@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "xi_mod:blocks/amarante_planks"
+  }
+}

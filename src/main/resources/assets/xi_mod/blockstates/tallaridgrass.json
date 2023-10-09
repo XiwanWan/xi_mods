@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "xi_mod:block/tallaridgrass"
+    },
+    "half=lower": {
+      "model": "xi_mod:block/tallaridgrass_bottom"
+    }
+  }
+}

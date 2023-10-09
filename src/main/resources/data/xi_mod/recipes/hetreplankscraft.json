@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xi_mod:hetrelog"
+    }
+  ],
+  "result": {
+    "item": "xi_mod:hetreplanks",
+    "count": 14
+  }
+}

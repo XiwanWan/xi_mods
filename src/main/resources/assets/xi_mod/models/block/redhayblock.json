@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "xi_mod:blocks/hay_block_top_red",
+    "top": "xi_mod:blocks/hay_block_top_red",
+    "side": "xi_mod:blocks/hay_block_side_red",
+    "overlay": "xi_mod:blocks/hay_block_side_red",
+    "particle": "xi_mod:blocks/hay_block_top_red"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "xi_mod:blocks/green_terracotta",
+    "top": "xi_mod:blocks/green_terracotta",
+    "side": "xi_mod:blocks/green_terracotta"
+  }
+}

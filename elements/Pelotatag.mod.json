@@ -1,0 +1,62 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Blackpelota"
+      },
+      {
+        "value": "CUSTOM:Bluepelota"
+      },
+      {
+        "value": "CUSTOM:Brownpelota"
+      },
+      {
+        "value": "CUSTOM:Cyanpelota"
+      },
+      {
+        "value": "CUSTOM:Graypelota"
+      },
+      {
+        "value": "CUSTOM:Greenpelota"
+      },
+      {
+        "value": "CUSTOM:Lightbluepelota"
+      },
+      {
+        "value": "CUSTOM:Lightgraypelota"
+      },
+      {
+        "value": "CUSTOM:Limepelota"
+      },
+      {
+        "value": "CUSTOM:Magentapelota"
+      },
+      {
+        "value": "CUSTOM:Orangepelota"
+      },
+      {
+        "value": "CUSTOM:Pinkpelota"
+      },
+      {
+        "value": "CUSTOM:Purplepelota"
+      },
+      {
+        "value": "CUSTOM:Redpelota"
+      },
+      {
+        "value": "CUSTOM:Whitepelota"
+      },
+      {
+        "value": "CUSTOM:Yellowpelota"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "pelotatag",
+    "namespace": "xi"
+  }
+}

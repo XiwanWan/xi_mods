@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xi_mod:graypelota"
+    },
+    "1": {
+      "item": "xi_mod:graypelota"
+    },
+    "2": {
+      "item": "xi_mod:graypelota"
+    },
+    "3": {
+      "item": "xi_mod:graypelota"
+    }
+  },
+  "result": {
+    "item": "minecraft:gray_wool",
+    "count": 1
+  }
+}

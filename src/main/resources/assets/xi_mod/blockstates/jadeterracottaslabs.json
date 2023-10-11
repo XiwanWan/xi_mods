@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/jadeterracottaslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/jadeterracottaslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/jadeterracottaslabs_full"
+    }
+  }
+}

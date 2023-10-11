@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "texture": "xi_mod:blocks/renforced_iron_block"
+  }
+}

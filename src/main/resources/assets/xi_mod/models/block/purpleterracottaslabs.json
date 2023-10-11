@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "xi_mod:blocks/purple_terracotta",
+    "top": "xi_mod:blocks/purple_terracotta",
+    "side": "xi_mod:blocks/purple_terracotta"
+  }
+}

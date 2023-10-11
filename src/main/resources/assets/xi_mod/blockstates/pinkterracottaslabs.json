@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/pinkterracottaslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/pinkterracottaslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/pinkterracottaslabs_full"
+    }
+  }
+}

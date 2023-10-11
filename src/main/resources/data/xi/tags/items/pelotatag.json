@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "xi_mod:greenpelota",
+    "xi_mod:bluepelota",
+    "xi_mod:lightbluepelota",
+    "xi_mod:graypelota",
+    "xi_mod:lightgraypelota",
+    "xi_mod:yellowpelota",
+    "xi_mod:limepelota",
+    "xi_mod:redpelota",
+    "xi_mod:whitepelota",
+    "xi_mod:blackpelota",
+    "xi_mod:magentapelota",
+    "xi_mod:pinkpelota",
+    "xi_mod:orangepelota",
+    "xi_mod:brownpelota",
+    "xi_mod:cyanpelota",
+    "xi_mod:purplepelota"
+  ]
+}

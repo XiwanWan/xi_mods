@@ -94,9 +94,9 @@ public class CenchrusBlock extends XiModModElements.ModElement {
 				}
 			};
 			configuredFeature = feature.withConfiguration(
-					(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer())).tries(64)
+					(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer())).tries(32)
 							.build())
-					.withPlacement(Placement.COUNT_NOISE.configure(new NoiseDependant(-0.8, 0, 5)));
+					.withPlacement(Placement.COUNT_NOISE.configure(new NoiseDependant(-0.8, 0, 32)));
 			event.getRegistry().register(feature.setRegistryName("cenchrus"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("xi_mod:cenchrus"), configuredFeature);
 		}

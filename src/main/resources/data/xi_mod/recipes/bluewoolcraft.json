@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xi_mod:bluepelota"
+    },
+    "1": {
+      "item": "xi_mod:bluepelota"
+    },
+    "2": {
+      "item": "xi_mod:bluepelota"
+    },
+    "3": {
+      "item": "xi_mod:bluepelota"
+    }
+  },
+  "result": {
+    "item": "minecraft:blue_wool",
+    "count": 1
+  }
+}

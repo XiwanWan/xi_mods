@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/pathslab"
+    },
+    "type=top": {
+      "model": "xi_mod:block/pathslab_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/pathslab_full"
+    }
+  }
+}

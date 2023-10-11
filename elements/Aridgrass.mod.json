@@ -79,7 +79,7 @@
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
     "canBePlacedOn": [],
-    "frequencyOnChunks": 5,
+    "frequencyOnChunks": 32,
     "spawnWorldTypes": [
       "Surface"
     ],
@@ -100,7 +100,7 @@
         "value": "CUSTOM:Baobabsavanna"
       }
     ],
-    "patchSize": 64,
+    "patchSize": 32,
     "generateAtAnyHeight": false
   }
 }

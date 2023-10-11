@@ -52,9 +52,9 @@
       "SAVANNA",
       "OVERWORLD"
     ],
-    "grassPerChunk": 6,
+    "grassPerChunk": 12,
     "seagrassPerChunk": 0,
-    "flowersPerChunk": 4,
+    "flowersPerChunk": 6,
     "mushroomsPerChunk": 0,
     "bigMushroomsChunk": 0,
     "sandPatchesPerChunk": 4,

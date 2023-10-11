@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "xi_mod:blocks/bordeaux_terracotta",
+    "top": "xi_mod:blocks/bordeaux_terracotta",
+    "side": "xi_mod:blocks/bordeaux_terracotta"
+  }
+}

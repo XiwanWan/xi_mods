@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xi_mod:orangepelota"
+    },
+    "1": {
+      "item": "xi_mod:orangepelota"
+    },
+    "2": {
+      "item": "xi_mod:orangepelota"
+    },
+    "3": {
+      "item": "xi_mod:orangepelota"
+    }
+  },
+  "result": {
+    "item": "minecraft:orange_wool",
+    "count": 1
+  }
+}

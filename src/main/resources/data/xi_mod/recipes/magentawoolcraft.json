@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xi_mod:magentapelota"
+    },
+    "1": {
+      "item": "xi_mod:magentapelota"
+    },
+    "2": {
+      "item": "xi_mod:magentapelota"
+    },
+    "3": {
+      "item": "xi_mod:magentapelota"
+    }
+  },
+  "result": {
+    "item": "minecraft:magenta_wool",
+    "count": 1
+  }
+}

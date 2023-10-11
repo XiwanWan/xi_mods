@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/pourpreterracottaslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/pourpreterracottaslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/pourpreterracottaslabs_full"
+    }
+  }
+}

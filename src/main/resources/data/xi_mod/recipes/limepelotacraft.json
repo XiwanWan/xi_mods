@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lime_wool"
+    }
+  },
+  "result": {
+    "item": "xi_mod:limepelota",
+    "count": 4
+  }
+}

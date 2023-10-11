@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "xi_mod:blocks/iron_block",
+    "particle": "xi_mod:blocks/iron_block"
+  }
+}

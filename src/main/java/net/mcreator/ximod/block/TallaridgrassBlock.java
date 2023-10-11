@@ -100,8 +100,8 @@ public class TallaridgrassBlock extends XiModModElements.ModElement {
 			};
 			configuredFeature = feature.withConfiguration(
 					(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new DoublePlantBlockPlacer()))
-							.tries(64).build())
-					.withPlacement(Placement.COUNT_NOISE.configure(new NoiseDependant(-0.8, 0, 5)));
+							.tries(32).build())
+					.withPlacement(Placement.COUNT_NOISE.configure(new NoiseDependant(-0.8, 0, 32)));
 			event.getRegistry().register(feature.setRegistryName("tallaridgrass"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("xi_mod:tallaridgrass"), configuredFeature);
 		}

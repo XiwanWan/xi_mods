@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Brownpelota"
+      },
+      {
+        "value": "CUSTOM:Brownpelota"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Brownpelota"
+      },
+      {
+        "value": "CUSTOM:Brownpelota"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.WOOL#12"
+    },
+    "name": "brownwoolcraft",
+    "namespace": "mod"
+  }
+}

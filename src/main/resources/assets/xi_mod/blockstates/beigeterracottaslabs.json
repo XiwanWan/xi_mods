@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/beigeterracottaslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/beigeterracottaslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/beigeterracottaslabs_full"
+    }
+  }
+}

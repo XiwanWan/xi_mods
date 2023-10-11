@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xi_mod:pinkpelota"
+    },
+    "1": {
+      "item": "xi_mod:pinkpelota"
+    },
+    "2": {
+      "item": "xi_mod:pinkpelota"
+    },
+    "3": {
+      "item": "xi_mod:pinkpelota"
+    }
+  },
+  "result": {
+    "item": "minecraft:pink_wool",
+    "count": 1
+  }
+}

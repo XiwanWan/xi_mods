@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/cyanterracottaslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/cyanterracottaslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/cyanterracottaslabs_full"
+    }
+  }
+}

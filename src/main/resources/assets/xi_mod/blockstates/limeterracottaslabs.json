@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xi_mod:block/limeterracottaslabs"
+    },
+    "type=top": {
+      "model": "xi_mod:block/limeterracottaslabs_top"
+    },
+    "type=double": {
+      "model": "xi_mod:block/limeterracottaslabs_full"
+    }
+  }
+}

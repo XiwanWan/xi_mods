@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xi_mod:blocks/light_blue_concrete",
+    "up": "xi_mod:blocks/light_blue_concrete",
+    "north": "xi_mod:blocks/glass",
+    "east": "xi_mod:blocks/light_blue_concrete",
+    "south": "xi_mod:blocks/light_blue_concrete",
+    "west": "xi_mod:blocks/light_blue_concrete",
+    "particle": "xi_mod:blocks/light_blue_concrete"
+  }
+}

@@ -3,6 +3,6 @@
   "textures": {
     "bottom": "xi_mod:blocks/dirt",
     "top": "xi_mod:blocks/grass_path_top",
-    "side": "xi_mod:blocks/grass_path_side"
+    "side": "xi_mod:blocks/grass_path_slab_side"
   }
 }

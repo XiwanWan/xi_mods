@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xi_mod:block/protectedlightblueconcreteglass"
+    },
+    "facing=east": {
+      "model": "xi_mod:block/protectedlightblueconcreteglass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xi_mod:block/protectedlightblueconcreteglass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xi_mod:block/protectedlightblueconcreteglass",
+      "y": 270
+    }
+  }
+}

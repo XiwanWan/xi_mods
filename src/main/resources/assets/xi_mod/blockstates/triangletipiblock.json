@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "xi_mod:block/triangletipiblock",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "xi_mod:block/triangletipiblock"
+    },
+    "axis=z": {
+      "model": "xi_mod:block/triangletipiblock",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "xi_mod:blocks/renforced_decorative_glass_pane"
+  }
+}

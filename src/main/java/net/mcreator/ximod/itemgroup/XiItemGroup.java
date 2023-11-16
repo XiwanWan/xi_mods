@@ -7,7 +7,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
-import net.mcreator.ximod.item.JadedyeItem;
+import net.mcreator.ximod.item.XihatItem;
 import net.mcreator.ximod.XiModModElements;
 
 @XiModModElements.ModElement.Tag
@@ -22,7 +22,7 @@ public class XiItemGroup extends XiModModElements.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(JadedyeItem.block);
+				return new ItemStack(XihatItem.helmet);
 			}
 
 			@OnlyIn(Dist.CLIENT)

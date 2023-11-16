@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "xi_mod:blocks/renforced_glass_pane_coin",
+    "pane": "xi_mod:blocks/renforced_decorative_glass_pane_bottom"
+  }
+}
